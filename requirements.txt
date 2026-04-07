@@ -1,0 +1,10 @@
+streamlit
+torch
+transformers
+numpy
+pandas
+plotly
+google-api-python-client
+openpyxl
+sentencepiece
+tiktoktoken
