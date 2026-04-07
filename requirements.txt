@@ -6,3 +6,4 @@ plotly==5.18.0
 google-api-python-client==2.108.0
 openpyxl==3.1.2
 torch
+sentencepiece==0.1.99
