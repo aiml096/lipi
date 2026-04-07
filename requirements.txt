@@ -1,10 +1,8 @@
 streamlit==1.40.0
-torch==2.7.1+cu118
-transformers==5.3.0.dev0
-numpy==2.2.6
-pandas==2.2.3
-plotly==6.3.1
-google-api-python-client
-openpyxl
-sentencepiece
-tiktoktoken
+transformers==4.36.0
+sentencepiece==0.1.99
+numpy==1.26.3
+pandas==2.1.4
+plotly==5.18.0
+google-api-python-client==2.108.0
+openpyxl==3.1.2
